@@ -1,0 +1,47 @@
+{
+
+  "vehicles": {
+    "vehicle": [
+      {
+        "vehicleDetails": {
+          "make": "Ford",
+          "model": "Ranger",
+          "modelYear": "2016",
+          "bodyStyle": "Super Cab",
+          "engine": "2.3L EcoBoost",
+          "drivetype": "4WD",
+          "color": "Oxford White",
+          "MPG": "24"},
+        "Exterior": "black",
+        "Interior":"black",
+        "vehiclePrice":
+        {
+          "msrp": "$35,515.00",
+          "savings": "$5000",
+          "finalPrice": "$30,515.00"
+        }
+
+      },
+      {
+        "vehicleDetails": {
+          "make": "Ford",
+          "model": "Ranger",
+          "modelYear": "2016",
+          "bodyStyle": "Super Cab",
+          "engine": "2.3L EcoBoost",
+          "drivetype": "4WD",
+          "color": "Oxford White",
+          "MPG": "24"
+        },
+        "Exterior": "black",
+        "Interior": "black",
+        "vehiclePrice": {
+          "msrp": "$35,515.00",
+          "savings": "$5000",
+          "finalPrice": "$30,515.00"
+        }
+      }
+
+    ]
+  }
+}
